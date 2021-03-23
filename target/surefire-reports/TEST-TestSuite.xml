@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="27.965" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/rej/eclipse-workspace/IspeakBetter2021/target/test-classes:/Users/rej/eclipse-workspace/IspeakBetter2021/target/classes:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/rej/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/rej/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/rej/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/rej/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/rej/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/rej/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/rej/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/rej/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/rej/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/rej/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/rej/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/rej/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/rej/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/rej/.m2/repository/io/github/bonigarcia/webdrivermanager/3.8.1/webdrivermanager-3.8.1.jar:/Users/rej/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/rej/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/rej/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/rej/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/rej/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar:/Users/rej/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar:/Users/rej/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/rej/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/rej/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/rej/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/rej/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/15.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/rej/eclipse-workspace/IspeakBetter2021/target/surefire/surefirebooter11066332308580920235.jar /Users/rej/eclipse-workspace/IspeakBetter2021/target/surefire 2021-03-03T12-30-22_982-jvmRun1 surefire9872292398121369670tmp surefire_02035965873473553275tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/rej/eclipse-workspace/IspeakBetter2021/target/test-classes:/Users/rej/eclipse-workspace/IspeakBetter2021/target/classes:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/rej/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/rej/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/rej/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/rej/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/rej/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/rej/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/rej/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/rej/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/rej/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/rej/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/rej/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/rej/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/rej/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/rej/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/rej/.m2/repository/io/github/bonigarcia/webdrivermanager/3.8.1/webdrivermanager-3.8.1.jar:/Users/rej/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/rej/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/rej/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/rej/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar:/Users/rej/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar:/Users/rej/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar:/Users/rej/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/rej/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/rej/.m2/repository/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0.jar:/Users/rej/.m2/repository/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar:/Users/rej/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/rej"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/15.0.1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/rej/eclipse-workspace/IspeakBetter2021"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/rej/eclipse-workspace/IspeakBetter2021/target/surefire/surefirebooter11066332308580920235.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="15.0.1+9"/>
+    <property name="user.name" value="rej"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="11.2.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/rej/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/jl/jk_2bb415mq8q2xvd5nsyj980000gn/T/"/>
+    <property name="java.version" value="15.0.1"/>
+    <property name="user.dir" value="/Users/rej/eclipse-workspace/IspeakBetter2021"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/rej/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="java.vm.version" value="15.0.1+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="verifyHomePageTitle" classname="com.qa.IspeakBetter2021.tests.HomePageTest" time="0.007">
+    <failure message="Cannot invoke &quot;com.qa.IspeakBetter2021.page.HomePage.getHomePageTitle()&quot; because &quot;this.homePage&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.qa.IspeakBetter2021.page.HomePage.getHomePageTitle()" because "this.homePage" is null
+	at com.qa.IspeakBetter2021.tests.HomePageTest.verifyHomePageTitle(HomePageTest.java:36)
+</failure>
+    <system-out><![CDATA[Browser name is chrome
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 4560
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Mar. 03, 2021 12:30:29 P.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="verifyLoginPageTitleTest" classname="com.qa.IspeakBetter2021.tests.LoginPageTest" time="5.014"/>
+</testsuite>

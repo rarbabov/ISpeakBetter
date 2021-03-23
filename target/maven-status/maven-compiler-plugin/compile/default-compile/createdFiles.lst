@@ -1,0 +1,4 @@
+com/qa/IspeakBetter2021/page/LoginPage.class
+com/qa/IspeakBetter2021/page/HomePage.class
+com/qa/IspeakBetter2021/page/ContactPage.class
+com/qa/IspeakBetter2021/base/BasePage.class
